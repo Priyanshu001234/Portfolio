@@ -1,0 +1,177 @@
+// All portfolio data for Priyanshu Raj Sharma
+export const data = {
+  name: "Priyanshu Raj Sharma",
+  initials: "PS",
+  title: "Aspiring Software Developer",
+  bio: "Hi, I'm Priyanshu Raj Sharma, a Computer Science and Engineering student at Lovely Professional University with a passion for problem-solving, data analysis, and building scalable applications. I enjoy working on projects that blend data insights with practical software solutions.",
+  journey: `My journey into technology began with a curiosity about how code can solve real-world problems. I'm currently pursuing B.Tech in CSE at LPU, where I've built a strong foundation in programming, data analysis, and object-oriented design.
+
+I regularly practice on platforms like LeetCode and GFG, constantly sharpening my analytical thinking. Through hands-on projects in data analysis, visualization, and GUI development, I've developed skills in Python, Java, SQL, and modern development tools.
+
+My goal is to grow as a software developer and data professional in a dynamic environment where I can apply my technical skills to solve meaningful real-world problems.`,
+  approach: "I believe in writing clean, maintainable code and letting data tell its story. Every project I undertake aims to surface actionable insights and deliver real value. I value collaborative problem-solving, continuous learning, and staying current with emerging technologies in software development and data science.",
+  location: "Punjab, India",
+  email: "priyanshuraj02531@gmail.com",
+  phone: "+91-6200732313",
+  web3formsKey: "2577b650-aa8f-46c0-99da-d2e114f7e2aa",
+  experience: "Fresher",
+  hobbies: ["Competitive Programming", "Open Source", "Problem Solving"],
+  github: "https://github.com/Priyanshu001234",
+  linkedin: "https://linkedin.com/in/PriyanshuRajSharma",
+
+  quickSkills: ["C/C++", "Python", "Java", "JavaScript", "SQL", "Git"],
+
+  skills: {
+    Languages: [
+      { name: "C/C++", level: 80 },
+      { name: "Python", level: 85 },
+      { name: "Java", level: 80 },
+      { name: "JavaScript", level: 70 },
+    ],
+    "Frontend": [
+      { name: "HTML", level: 80 },
+      { name: "CSS", level: 75 },
+      { name: "Python Libraries", level: 85 },
+    ],
+    "Data & Analytics": [
+      { name: "Pandas / NumPy", level: 85 },
+      { name: "Matplotlib / Seaborn", level: 80 },
+      { name: "MySQL", level: 80 },
+      { name: "MongoDB", level: 70 },
+    ],
+    "Backend & Tools": [
+      { name: "Git / GitHub", level: 80 },
+      { name: "Figma", level: 65 },
+      { name: "DBMS / SQL", level: 80 },
+      { name: "OOPs", level: 85 },
+    ],
+  },
+
+  projects: [
+    {
+      name: "Air Quality Impact on Agriculture",
+      description: "Performed data preprocessing and exploratory data analysis (EDA) to identify key pollutants impacting crop productivity. Created visual insights and trend charts using Pandas, Matplotlib, and Seaborn for clearer environmental pattern interpretation. Generated data-driven insights on how pollutant variations influence farming decisions and sustainability practices.",
+      tech: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter Notebook"],
+      categories: ["Data Analysis", "Data Visualization"],
+      github: "https://github.com/Priyanshu001234",
+      live: "https://www.linkedin.com/in/PriyanshuRajSharma",
+      type: "Data Analysis",
+      period: "May '25",
+      color: "#8b5cf6",
+      featured: true,
+      images: [],
+    },
+    {
+      name: "Infectious Disease Trends Dashboard",
+      description: "Analyzed California infectious disease data to identify trends in cases rates, demographics, and yearly patterns. Built an interactive Excel dashboard with slicers, charts, and KPIs to compare disease spread by age, gender, and county. Delivered insights on top diseases, yearly spikes, and population-vs-case correlations to support public health decisions.",
+      tech: ["Excel", "Pivot Tables", "Data Cleaning", "Statistical Analysis", "Dashboard Visualization"],
+      categories: ["Data Analysis", "Dashboard"],
+      github: "https://github.com/Priyanshu001234",
+      live: "https://www.linkedin.com/in/PriyanshuRajSharma",
+      type: "Data Analysis",
+      period: "Apr '25",
+      color: "#06b6d4",
+      images: [],
+    },
+  ],
+
+  certifications: [
+    {
+      name: "Cloud Computing",
+      issuer: "NPTEL",
+      platform: "NPTEL",
+      date: "Apr '25",
+      description: "Comprehensive course on cloud computing fundamentals, services, and deployment models offered through NPTEL.",
+      skills: ["Cloud Computing", "Cloud Services", "Infrastructure"],
+      icon: "☁️",
+      hasCert: true,
+      image: "/certificates/cloud.jpg",
+      link: "",
+    },
+    {
+      name: "ChatGPT-4 Prompt Engineering",
+      issuer: "Infosys Springboard",
+      platform: "Infosys",
+      date: "Aug '25",
+      description: "Comprehensive course on prompt engineering techniques for ChatGPT-4 from Infosys Springboard.",
+      skills: ["Prompt Engineering", "Generative AI", "ChatGPT"],
+      icon: "🤖",
+      hasCert: true,
+      image: "/certificates/chatgpt.jpg",
+      link: "https://infyspringboard.onwingspan.com/",
+    },
+    {
+      name: "Peer-to-Peer Protocols & LAN",
+      issuer: "Colorado / Coursera",
+      platform: "Coursera",
+      date: "Jun '24",
+      description: "Course on peer-to-peer networking protocols and local area network fundamentals offered through Coursera.",
+      skills: ["Networking", "P2P Protocols", "LAN"],
+      icon: "🌐",
+      hasCert: true,
+      image: "/certificates/network.jpg",
+      link: "https://www.coursera.org/",
+    },
+    {
+      name: "Data Structures and Algorithms (72 Hrs.)",
+      issuer: "LPU / iamneo",
+      platform: "LPU",
+      date: "Dec '24",
+      description: "72-hour comprehensive online course on Data Structures and Algorithms completed via the iamneo platform.",
+      skills: ["Data Structures", "Algorithms", "Problem Solving"],
+      icon: "📊",
+      hasCert: true,
+      image: "/certificates/dsa.jpg",
+      link: "",
+    },
+    {
+      name: "Introduction to Hardware & OS",
+      issuer: "IBM / Coursera",
+      platform: "Coursera",
+      date: "Jan '24",
+      description: "IBM-authorized course on computer hardware fundamentals and operating system concepts via Coursera.",
+      skills: ["Hardware", "Operating Systems", "Computer Fundamentals"],
+      icon: "💻",
+      hasCert: true,
+      image: "/certificates/os.jpg",
+      link: "https://www.coursera.org/",
+    },
+  ],
+
+  achievements: [
+    { title: "200+ Problems Solved on LeetCode & GFG", description: "Solved 200+ coding problems across LeetCode & GFG, enhancing problem-solving and algorithmic thinking skills.", icon: "🏆", date: "May '25" },
+    { title: "5-Star Rating on LeetCode", description: "Achieved a 5-star rating on LeetCode with strong competitive programming performance and consistent problem-solving.", icon: "⭐", date: "Apr '25" },
+    { title: "Java Maestro Training – LPU", description: "Completed hands-on training on Developing GUI Applications using Java Swing & AWT at Lovely Professional University with Outstanding grade.", icon: "🎓", date: "Jul '25" },
+    { title: "Outstanding Grade in Java Training", description: "Received Grade O (Outstanding) in Java Maestro – Hands-On Training on GUI application development at LPU.", icon: "🔥", date: "Jul '25" },
+  ],
+
+  education: [
+    {
+      school: "Lovely Professional University",
+      degree: "Bachelor of Technology – Computer Science and Engineering",
+      grade: "CGPA: 6.5",
+      location: "Punjab, India",
+      period: "Aug '23 – Present",
+    },
+    {
+      school: "St. Paul Senior Secondary School",
+      degree: "Intermediate (12th)",
+      grade: "81%",
+      location: "Begusarai, Bihar",
+      period: "Apr '19 – Mar '20",
+    },
+    {
+      school: "St. Paul Senior Secondary School",
+      degree: "Matriculation (10th)",
+      grade: "85%",
+      location: "Begusarai, Bihar",
+      period: "Apr '21 – Mar '22",
+    },
+  ],
+
+  extracurricular: [
+    "Regular practice on LeetCode and GeeksForGeeks to sharpen algorithmic thinking and problem-solving skills.",
+    "Completed Java Maestro training at LPU with hands-on GUI development using Java Swing & AWT.",
+    "Pursuing certifications in Cloud Computing, AI, and Networking to stay updated with emerging technologies.",
+  ],
+};
