@@ -17,7 +17,7 @@ My goal is to grow as a software developer and data professional in a dynamic en
   experience: "Fresher",
   hobbies: ["Competitive Programming", "Open Source", "Problem Solving"],
   github: "https://github.com/Priyanshu001234",
-  linkedin: "https://linkedin.com/in/PriyanshuRajSharma",
+  linkedin: "https://www.linkedin.com/in/priyanshu-raj-sharma-737b27288/",
 
   quickSkills: ["C/C++", "Python", "Java", "JavaScript", "SQL", "Git"],
 
@@ -54,7 +54,7 @@ My goal is to grow as a software developer and data professional in a dynamic en
       tech: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter Notebook"],
       categories: ["Data Analysis", "Data Visualization"],
       github: "https://github.com/Priyanshu001234",
-      live: "https://www.linkedin.com/in/PriyanshuRajSharma",
+      live: "https://www.linkedin.com/in/priyanshu-raj-sharma-737b27288/",
       type: "Data Analysis",
       period: "May '25",
       color: "#8b5cf6",
@@ -67,7 +67,7 @@ My goal is to grow as a software developer and data professional in a dynamic en
       tech: ["Excel", "Pivot Tables", "Data Cleaning", "Statistical Analysis", "Dashboard Visualization"],
       categories: ["Data Analysis", "Dashboard"],
       github: "https://github.com/Priyanshu001234",
-      live: "https://www.linkedin.com/in/PriyanshuRajSharma",
+      live: "https://www.linkedin.com/in/priyanshu-raj-sharma-737b27288/",
       type: "Data Analysis",
       period: "Apr '25",
       color: "#06b6d4",
