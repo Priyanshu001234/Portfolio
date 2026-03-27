@@ -31,7 +31,7 @@ export default function Achievements() {
                     </div>
                     <div className="stat-box card">
                         <span className="stat-num gradient-text">5★</span>
-                        <span className="stat-label">LeetCode Rating</span>
+                        <span className="stat-label">HackerRank Rating</span>
                     </div>
                     <div className="stat-box card">
                         <span className="stat-num gradient-text">5+</span>

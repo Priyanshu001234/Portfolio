@@ -59,7 +59,7 @@ My goal is to grow as a software developer and data professional in a dynamic en
       period: "May '25",
       color: "#8b5cf6",
       featured: true,
-      images: [],
+      images: ["/Project/Airquality.jpg"],
     },
     {
       name: "Infectious Disease Trends Dashboard",
@@ -71,7 +71,7 @@ My goal is to grow as a software developer and data professional in a dynamic en
       type: "Data Analysis",
       period: "Apr '25",
       color: "#06b6d4",
-      images: [],
+      images: ["/Project/healthcare.jpg"],
     },
   ],
 
@@ -140,7 +140,7 @@ My goal is to grow as a software developer and data professional in a dynamic en
 
   achievements: [
     { title: "200+ Problems Solved on LeetCode & GFG", description: "Solved 200+ coding problems across LeetCode & GFG, enhancing problem-solving and algorithmic thinking skills.", icon: "🏆", date: "May '25" },
-    { title: "5-Star Rating on LeetCode", description: "Achieved a 5-star rating on LeetCode with strong competitive programming performance and consistent problem-solving.", icon: "⭐", date: "Apr '25" },
+    { title: "5-Star Rating on HackerRank", description: "Achieved a 5-star rating on HackerRank, demonstrating strong problem-solving skills in competitive programming.", icon: "⭐", date: "Mar '26" },
     { title: "Java Maestro Training – LPU", description: "Completed hands-on training on Developing GUI Applications using Java Swing & AWT at Lovely Professional University with Outstanding grade.", icon: "🎓", date: "Jul '25" },
     { title: "Outstanding Grade in Java Training", description: "Received Grade O (Outstanding) in Java Maestro – Hands-On Training on GUI application development at LPU.", icon: "🔥", date: "Jul '25" },
   ],
