@@ -23,7 +23,7 @@ export default function Certifications() {
     return (
         <div className="certs-page">
             <div className="container section">
-                <h2 className="section-title gradient-text">Certifications</h2>
+                <h2 className="section-title gradient-text">Certificates</h2>
                 <div className="title-underline"></div>
                 <p className="section-subtitle">Professional credentials and courses I've completed</p>
 

@@ -116,8 +116,9 @@ export default function Resume() {
                     )}
                 </div>
 
-                <div style={{ textAlign: 'center', marginTop: 32 }}>
-                    <a href="/Priyanshu_Resume.pdf" download="Priyanshu_Raj_Sharma_Resume.pdf" className="btn-primary">⬇️ Download Resume</a>
+                <div style={{ display: 'flex', justifyContent: 'center', gap: '16px', flexWrap: 'wrap', marginTop: 32 }}>
+                    <a href="/Priyanshu_Resume.pdf" download="Priyanshu_Raj_Sharma_Resume.pdf" className="btn-primary">⬇️ Download Tech Resume</a>
+                    <a href="/Priyanshu_Specialized_CV.pdf" download="Priyanshu_Raj_Sharma_Specialized_CV.pdf" className="btn-primary">⬇️ Download Specialized CV</a>
                 </div>
             </div>
         </div>
