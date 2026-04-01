@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { data } from '../data';
 import { Link } from 'react-router-dom';
 import './Home.css';
-import profileImg from '../assets/profile.jpeg';
+import profileImg from '../assets/profile2.jpg';
 
 const hobbyIcons = { 'Competitive Programming': '💻', 'Open Source': '🌐', 'Problem Solving': '🧩', Gaming: '🎮', Music: '🎵', Reading: '📚' };
 
